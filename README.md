@@ -2,23 +2,39 @@
 ## 1.OBJETIVOS
 ### 1.1 INDUCTANCIA E INDUCTORES
 • Describir qué es un inductor y cuál es su efecto en la operación de un circuito.
+
 • Explicar la ley de Faraday y la ley de Lenz.
+
 • Calcular el voltaje inducido mediante la ley de Faraday.
-• Definir inductancia,
+
+• Definir inductancia.
+
 • Calcular el voltaje en una inductancia.
+
 • Calcular la inductancia para configuraciones en serie y en paralelo.
+
 • Calcular voltajes y corrientes del inductor para la excitación de cd en estado estable.
-• Calcular la energía almacenada en una inductancia,
+
+• Calcular la energía almacenada en una inductancia.
+
 • Describir los problemas comunes del inductor y cómo examinarlos.
+
 ### 1.2 TRANSITORIOS INDUCTIVOS 
 • Explicar por qué ocurren los transitorios en los circuitos RL.
+
 • Explicar por qué un inductor con condición inicial cero parece un circuito abierto cuando se le provee energía.
+
 • Calcular las constantes de tiempo para los circuitos RL.
+
 • Calcular los transitorios de voltaje y corriente en circuitos RL durante la fase de crecimiento de la corriente.
+
 • Calcular los transitorios de voltaje y corriente en circuitos RL durante la fase de disminución de la corriente.
+
 • Explicar por qué un inductor con condición inicial diferente de cero parece una fuente de corriente
 cuando se le perturba.
+
 • Resolver problemas de transitorios RL moderadamente complejos con las técnicas de simplificación de circuitos.
+
 • Resolver problemas de transitorio RL con Multisim y PSpice.
 ## 2. MARCO TEÓRICO(RESUMEN)
 ## 2.1 INDUCTANCIA E INDUCTORES
