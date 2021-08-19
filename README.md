@@ -22,10 +22,20 @@ cuando se le perturba.
 ## 2. MARCO TEÓRICO(RESUMEN)
 ## 2.1 INDUCTANCIA E INDUCTORES
 ### 2.1.1  INDUCCIÓN ELECTROMAGNÉTICA
+
+![INTRODUCCION (2)](https://user-images.githubusercontent.com/84431598/130088730-2819416f-a81a-4e81-914a-537f393de118.png)
+
 ### 2.1.2 VOLTAJE INDUCIDO E INDUCCIÓN
+
+![voltaje (2)](https://user-images.githubusercontent.com/84431598/130091663-6df3974b-5336-44fa-9edb-6175a4be7d79.png)
+
 ### 2.1.3 AUTOINDUCTANCIA
+
+![AUTO (2)](https://user-images.githubusercontent.com/84431598/130089147-c82406b9-1505-4e4f-9014-36911ff3d041.png)
+
 ### 2.1.4 CÁLCULO DEL VOLTAJE INDUCIDO
 
+![CALCULO (2)](https://user-images.githubusercontent.com/84431598/130089400-4d11a0d4-ea23-4063-92a4-7090881a5081.png)
 
 ### 2.1.5  INDUCTANCIAS EN SERIE Y EN PARALELO
 
@@ -207,6 +217,21 @@ en que el interruptor se cierra es 80 V, la corriente final de estado estable es
 ### 3.2.6 TRANSITORIOS RL CON COMPUTADORA 
 ## 4.CONCLUSIONES
 ### 4.1 INDUCTANCIA E INDUCTORES
+- Ley que establece que el voltaje inducido en una bobina de alambre es igual al número
+de vueltas que tenga la bobina multiplicado por la razón de cambio del flujo magnético.
+-  Fuerza magnetomotriz (fmm) Es la causa de un campo magnético medida en ampere-vueltas.
+-  Flujo magnético Está constituido por las líneas de fuerza presentes entre los polos norte y sur de un imán
+permanente o de un electroimán.
+- Voltaje inducido (vind) Es el voltaje producido como resultado de un campo magnético cambiante.
+- La inductancia tiene su origen
+en el campo magnético creado por la
+corriente.
+- Entre más
+fuerte es el campo para una determinada corriente, más grande será
+la inductancia. Entonces, una bobina de muchas vueltas tendrá más
+inductancia que una de pocas vueltas (L es proporcional a N2) y una
+bobina devanada en un núcleo magnético tendrá mayor inductancia
+que una bobina devanada en uno no magnético.
 ### 4.2  TRANSITORIOS INDUCTIVOS 
 ## 5.VIDEO
 ## 6.BIBLIOGRAFÍA
