@@ -348,6 +348,8 @@ b. ¿Cuánto es iL y vL en t = 25 ms?
  
 ![image](https://user-images.githubusercontent.com/84425276/130545634-03010157-844f-450b-9319-dddb485a857b.png)
 
+![image](https://user-images.githubusercontent.com/84425276/130550958-856ff836-f079-43d0-97c2-1a0f2c907861.png)
+
 ## 4.CONCLUSIONES
 ### 4.1 INDUCTANCIA E INDUCTORES
 - Ley que establece que el voltaje inducido en una bobina de alambre es igual al número
