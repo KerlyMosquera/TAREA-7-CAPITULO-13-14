@@ -281,7 +281,7 @@ circuito de la figura 14-42. Calcule iL y vL en t = 3.4 ms.
 
 ![image](https://user-images.githubusercontent.com/84425276/130545299-c2e48011-047e-4035-9821-b2164eb5af0e.png)
 
-
+![image](https://user-images.githubusercontent.com/84425276/130546076-f4f4c56f-6c93-4f59-a9fa-77131291adb1.png)
 
 ### 3.2.4  TRANSITORIOS DESENERGIZANTES 
 
@@ -293,19 +293,27 @@ d. Grafique iL y vL. Marque el eje en t y en segundos.
 
 ![image](https://user-images.githubusercontent.com/84425276/130545366-01224ff0-a524-4754-aaaa-237782b09a8d.png)
 
+
  
 17. Dado vL = -2700 Ve-100t. Use la curva universal de la constante de tiempo para determinar vL en t = 20 ms.
+
+![image](https://user-images.githubusercontent.com/84425276/130546189-df97641b-0b98-4c6b-b5f0-a52802cb6510.png)
 
 19. Para la figura 14-43, L = 20 H. La corriente durante la fase de crecimiento y disminución se muestra en la figura 14-44. Determine R1 y R2.
 
 ![image](https://user-images.githubusercontent.com/84425276/130545400-ffcf4d3c-1abf-4b44-92f9-8ff1f4e6d21d.png)
 
+![image](https://user-images.githubusercontent.com/84425276/130546214-5835fb65-89cf-416f-8af6-04fe50b44c06.png)
 
 ### 3.2.5  CIRCUITOS MÁS COMPLEJOS 
 
 21. Para la bobina de la figura 14-45 Rl = 1.7 Ω y L = 150 mH. Determine la corriente de la bobina en t = 18.4 ms.
 
 ![image](https://user-images.githubusercontent.com/84425276/130545495-016255b5-2f6f-4c27-bd06-536c4c0bdcd0.png)
+
+![image](https://user-images.githubusercontent.com/84425276/130546281-ee774f9b-0c99-4310-ab4d-331234f26a2b.png)
+
+![image](https://user-images.githubusercontent.com/84425276/130546342-91261dcb-c9c7-474f-b883-47f66918e27b.png)
 
 23. Para la figura 14-46, el circuito ha alcanzado el estado estable con el interruptor cerrado. Ahora se abre el interruptor.
 a. Determine la constante de tiempo del circuito desenergizado.
