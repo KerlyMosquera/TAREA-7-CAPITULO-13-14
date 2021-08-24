@@ -144,44 +144,78 @@ en serie. ¿Qué valor tiene LT?
 
 ![13-40 (2)](https://user-images.githubusercontent.com/84431598/129842998-1a7f758c-49bf-4da0-a9ac-5317a107f86d.png)
 
+![Captura de Pantalla 2021-08-23 a la(s) 19 41 47](https://user-images.githubusercontent.com/84458025/130537440-65031f17-6ada-4444-80c5-3355fda3f73f.png)
 
-27. Dos inductancias de 6 y 4 H están en conectadas en paralelo. Después de que
-se agrega una tercera inductancia, LT = 4 H. ¿Cuál es el valor de la tercera inductancia
-y como está conectada?
+![Captura de Pantalla 2021-08-23 a la(s) 19 44 15](https://user-images.githubusercontent.com/84458025/130537663-b94d3423-2289-43d5-8bea-23a999493f39.png)
 
-29. Inductancias de 8, 12 y 1.2 H están conectadas en un circuito. Si LT =
-6 H, ¿cómo están conectados los inductores?
+
+27. Dos inductancias de 6 y 4 H están en conectadas en paralelo. Después de que se agrega una tercera inductancia, LT = 4 H. ¿Cuál es el valor de la tercera inductancia y como está conectada?
+
+![Captura de Pantalla 2021-08-23 a la(s) 19 45 54](https://user-images.githubusercontent.com/84458025/130537723-4cb17202-1e32-4547-a740-05bad28e814e.png)
+
+29. Inductancias de 8, 12 y 1.2 H están conectadas en un circuito. Si LT =6 H, ¿cómo están conectados los inductores
+
+![Captura de Pantalla 2021-08-23 a la(s) 19 46 39](https://user-images.githubusercontent.com/84458025/130537776-7a620543-0b6a-42c5-8ff5-1e5cf2a6ee86.png)
+
+Las inductancias 8 y 12 están en paralelo en combinación de 1.2 H!
 
 31. Por medio de la combinación de elementos, reduzca cada uno de los circuitos
 de la figura 13-42 a su forma más simple.
 
 ![13-42 (2)](https://user-images.githubusercontent.com/84431598/129843107-38cc7fc0-7ae8-4a79-9301-a1734416aa6f.png)
 
+![Captura de Pantalla 2021-08-23 a la(s) 19 55 37](https://user-images.githubusercontent.com/84458025/130538377-4250427b-c22e-4550-b497-d082c0921c2d.png)
+
+![Captura de Pantalla 2021-08-23 a la(s) 19 56 05](https://user-images.githubusercontent.com/84458025/130538401-442db60e-97bf-49c8-95a9-4f58d7e216b5.png)
+
+![Captura de Pantalla 2021-08-23 a la(s) 19 58 35](https://user-images.githubusercontent.com/84458025/130538578-566bd6f0-6e4f-4836-a850-6b358d2648c8.png)
+
+![Captura de Pantalla 2021-08-23 a la(s) 19 59 31](https://user-images.githubusercontent.com/84458025/130538646-aa546e9f-7da7-4a4a-878f-3b81c44255f3.png)
+
+![Captura de Pantalla 2021-08-23 a la(s) 20 00 51](https://user-images.githubusercontent.com/84458025/130538736-40389d54-b394-48cf-bd5f-ebc4004e2d59.png)
+
 ### 3.1.8  ENERGÍA ALMACENADA POR UNA INDUCTANCIA
 33. Encuentre la energía almacenada en el inductor de la figura 13-44.
 
 ![13-44 (2)](https://user-images.githubusercontent.com/84431598/129843229-08cf43c9-2ff9-4ebb-8a5f-6261ea1ac584.png)
 
+![Captura de Pantalla 2021-08-23 a la(s) 20 01 36](https://user-images.githubusercontent.com/84458025/130538789-95515fdd-cdee-4e7c-afd7-fbaf001419c7.png)
+
+![Captura de Pantalla 2021-08-23 a la(s) 20 02 21](https://user-images.githubusercontent.com/84458025/130538839-e4ece71f-d97a-4795-a5aa-af2268bd55d8.png)
 
 ### 3.1.9  SUGERENCIAS PARA LA SOLUCIÓN DE PROBLEMAS CON INDUCTORES
 35. En la figura 13-46, un medidor de inductancia mide 7 H. ¿Cuál es la falla probable?
+1. 
+a. ¿A qué se parece un inductor que no conduce corriente en el instante que se acciona el interruptor?
+
+b. Para cada circuito de la figura 14-37, determine iS y vL inmediatamente
+después de que el interruptor se cierra.
 
 ![13-46 (2)](https://user-images.githubusercontent.com/84431598/129843308-217054de-4dbc-42b5-87c7-ccf11c3cfc87.png)
 
+![Captura de Pantalla 2021-08-23 a la(s) 20 04 14](https://user-images.githubusercontent.com/84458025/130538959-94668749-1715-4afb-b926-fb3479a64843.png)
 
 ### 3.2 TRANSITORIOS INDUCTIVOS 
 ### 3.2.1 INTRODUCCIÓN 
+3. Repita el problema 2 si L1 se reemplaza con un capacitor descargado.
+
 1. 
-a. ¿A qué se parece un inductor que no conduce corriente en el instante que
-se acciona el interruptor?
+a. ¿A qué se parece un inductor que no conduce corriente en el instante que se acciona el interruptor?
 
 b. Para cada circuito de la figura 14-37, determine iS y vL inmediatamente
 después de que el interruptor se cierra.
 
 ![14-37 (2)](https://user-images.githubusercontent.com/84431598/129843486-e0a74e89-20be-419b-8c46-415d018826be.png)
 
-3. Repita el problema 2 si L1 se reemplaza con un capacitor descargado.
+![Captura de Pantalla 2021-08-23 a la(s) 20 09 34](https://user-images.githubusercontent.com/84458025/130539370-4f5344a6-b119-4c26-af5c-d6361a70c1da.png)
 
+![Captura de Pantalla 2021-08-23 a la(s) 20 10 46](https://user-images.githubusercontent.com/84458025/130539484-12bca7ec-76b4-42ab-9761-b5d95153befc.png)
+
+![Captura de Pantalla 2021-08-23 a la(s) 20 15 47](https://user-images.githubusercontent.com/84458025/130539862-2c733068-6637-4134-b7c8-24cf77b2bafe.png)
+
+![Captura de Pantalla 2021-08-23 a la(s) 20 17 14](https://user-images.githubusercontent.com/84458025/130539991-00995f10-0558-451d-9787-ba1784bb40ae.png)
+
+![Captura de Pantalla 2021-08-23 a la(s) 20 17 46](https://user-images.githubusercontent.com/84458025/130540037-426a6b57-07fa-4ab1-b9b5-1beea3c44a1c.png)
 
 ### 3.2.2  TRANSITORIO DE CORRIENTE CRECIENTE 
 5. El interruptor de la figura 14-39 está cerrado en t = 0 s.
@@ -203,14 +237,33 @@ e. Grafique iL y vL. Marque los ejes en t y en segundos.
 
 ![14-41 (2)](https://user-images.githubusercontent.com/84431598/129843678-f4e2b810-7410-4afe-8dc8-808869fa54b0.png)
 
+![Captura de Pantalla 2021-08-23 a la(s) 20 18 47](https://user-images.githubusercontent.com/84458025/130540149-f5823fce-d3e6-4aa9-8730-e3ffaf792055.png)
+
+![Captura de Pantalla 2021-08-23 a la(s) 20 20 05](https://user-images.githubusercontent.com/84458025/130540233-26d3d4e4-0aa1-4c69-924a-0ee35af8a399.png)
+
+![Captura de Pantalla 2021-08-23 a la(s) 20 21 06](https://user-images.githubusercontent.com/84458025/130540295-a066f96d-e54f-4aed-a42d-35f4ee3c641d.png)
+
+![Captura de Pantalla 2021-08-23 a la(s) 20 21 31](https://user-images.githubusercontent.com/84458025/130540329-32bd0ba7-6f7b-40d2-b05b-fbe4be374894.png)
+
+![Captura de Pantalla 2021-08-23 a la(s) 20 22 04](https://user-images.githubusercontent.com/84458025/130540364-3143181a-5486-4c7d-a5c7-5d0cfdc193b2.png)
+
+![Captura de Pantalla 2021-08-23 a la(s) 20 22 52](https://user-images.githubusercontent.com/84458025/130540413-0742c9b6-5fd7-4fbb-bb45-b803ec51d098.png)
+
+![Captura de Pantalla 2021-08-23 a la(s) 20 24 05](https://user-images.githubusercontent.com/84458025/130540489-8473f972-724e-4da3-bd8a-93c23aeb760e.png)
+
+![Captura de Pantalla 2021-08-23 a la(s) 20 24 33](https://user-images.githubusercontent.com/84458025/130540525-071b8eb1-a730-4c0a-9995-df0708196619.png)
+
 9. Cierre el interruptor en t = 0 s y determine las ecuaciones para iL y vL para el
 circuito de la figura 14-42. Calcule iL y vL en t = 3.4 ms.
 
 ![14 42 (2)](https://user-images.githubusercontent.com/84431598/129843780-f966e4ec-96c0-4bc0-aba4-139baeccbd41.png)
 
-11. Para el circuito de la figura 14-1(b), el voltaje en la inductancia en el instante
-en que el interruptor se cierra es 80 V, la corriente final de estado estable es
-4 A, y el transitorio dura 0.5 s. Determine E, R y L.
+![Captura de Pantalla 2021-08-23 a la(s) 20 27 14](https://user-images.githubusercontent.com/84458025/130540715-9effb11b-c692-449c-b610-035a80a5a7c5.png)
+
+
+11. Para el circuito de la figura 14-1(b), el voltaje en la inductancia en el instante en que el interruptor se cierra es 80 V, la corriente final de estado estable es 4 A, y el transitorio dura 0.5 s. Determine E, R y L.
+
+![Captura de Pantalla 2021-08-23 a la(s) 20 27 51](https://user-images.githubusercontent.com/84458025/130540759-8bc97087-c1ec-4708-abb0-297b505877f8.png)
 
 ### 3.2.4  TRANSITORIOS DESENERGIZANTES 
 ### 3.2.5  CIRCUITOS MÁS COMPLEJOS 
