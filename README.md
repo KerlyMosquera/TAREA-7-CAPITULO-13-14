@@ -373,6 +373,7 @@ bobina devanada en un núcleo magnético tendrá mayor inductancia
 que una bobina devanada en uno no magnético.
 ### 4.2  TRANSITORIOS INDUCTIVOS 
 ## 5.VIDEO
+https://youtu.be/fELIaliq_m0
 ## 6.BIBLIOGRAFÍA
 - Roobins, A y Miller, W.(2007). *Análisis de circuitos teoría y práctica (4ta ed)*. México DF, México: Cengage Learning.
 -  Floyd,T (2007). *Principios de circuitos eléctricos (8va ed),* México DF, México: Pearson Educación.
