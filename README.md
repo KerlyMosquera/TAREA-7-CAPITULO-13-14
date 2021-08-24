@@ -49,9 +49,21 @@ cuando se le perturba.
 ### 2.2.1 INTRODUCCIÓN 
 ### 2.2.2 TRANSITORIO DE CORRIENTE CRECIENTE 
 ### 2.2.3 INTERRUPCIÓN DE LA CORRIENTE EN UN CIRCUITO INDUCTIVO 
+
+![Interrupción de la corriente en un circuito inductivo](https://user-images.githubusercontent.com/84425276/130545825-50288444-1118-49a1-9af7-c507d525862d.png)
+
 ### 2.2.4 TRANSITORIOS DESENERGIZANTES 
+
+![Transitorios desenergizantes](https://user-images.githubusercontent.com/84425276/130545750-f40eb9af-7fac-40c0-b318-4ecd97c5a8cf.png)
+
 ### 2.2.5 CIRCUITOS MÁS COMPLEJOS 
+
+![Circuitos más complejos](https://user-images.githubusercontent.com/84425276/130545788-48d67106-13fd-4da2-b1d4-6c02dd2f3ae4.png)
+
 ### 2.2.6 TRANSITORIOS RL CON COMPUTADORA 
+
+![Transitorios RL con computadora](https://user-images.githubusercontent.com/84425276/130545769-0304643a-33ee-492f-9f65-009eac538420.png)
+
 ## 3.EXPLICACIÓN Y RESOLUCIÓN DE LOS EJERCICIOS
 ### 3.1.2 VOLTAJE INDUCIDO E INDUCCIÓN
 1. Si el flujo que enlaza una bobina de 75 vueltas (figura 13-29) cambia a la tasa
