@@ -346,6 +346,8 @@ b. ¿Cuánto es iL y vL en t = 25 ms?
 
 ![image](https://user-images.githubusercontent.com/84425276/130545646-a9669b68-bf0c-4bad-bb10-724d0ee43110.png)
 
+![image](https://user-images.githubusercontent.com/84425276/130553256-ac5cb8c4-2910-4f54-83d2-174f40695dd4.png)
+
 33. Se resolvió el circuito de la figura 14-22(a) mediante la reducción a su equivalente de Thevenin. Use PSpice para analizar el circuito en su forma original y grafique la corriente del inductor. Verifique algunos puntos en la curva calculando los valores de acuerdo con la solución del ejemplo 14-8 y compare con los valores que obtuvo en la pantalla.
  
 ![image](https://user-images.githubusercontent.com/84425276/130545634-03010157-844f-450b-9319-dddb485a857b.png)
