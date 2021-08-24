@@ -381,6 +381,12 @@ inductancia que una de pocas vueltas (L es proporcional a N2) y una
 bobina devanada en un núcleo magnético tendrá mayor inductancia
 que una bobina devanada en uno no magnético.
 ### 4.2  TRANSITORIOS INDUCTIVOS 
+- Se concluye que la corriente del inductor no puede cambiar de manera instantánea.
+- Cuando se representan a escala los valores de una gráfica por computadora, no siempre es posible colocar el cursor exactamente donde se desea (debido a la naturaleza de los programas de
+simulación). En consecuencia, se debe fijar el cursor tan cerca cómo se pueda y entonces se estima el
+valor que se está tratando de medir.
+- Un inductor que conduce corriente parece una fuente de corriente en el instante
+que se acciona el interruptor.
 ## 5.VIDEO
 https://youtu.be/fELIaliq_m0
 ## 6.BIBLIOGRAFÍA
