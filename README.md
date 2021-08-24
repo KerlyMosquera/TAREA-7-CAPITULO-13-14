@@ -42,12 +42,29 @@ cuando se le perturba.
 ![mapa (2)](https://user-images.githubusercontent.com/84431598/129828452-f5215523-1e54-4874-88b2-4c9fccfca483.png)
 
 ### 2.1.6 CONSIDERACIONES PRÁCTICAS
+
+![1](https://user-images.githubusercontent.com/84458025/130657688-fdfce73b-6806-4272-adf0-d5da2a82b65c.png)
+
 ### 2.1.7 INDUCTANCIA Y ESTADO ESTABLE DE CD
+
+![Diapositiva2](https://user-images.githubusercontent.com/84458025/130657355-ed404472-fcb8-4e45-8cf7-dda28abd2aaf.PNG)
+
 ### 2.1.8 ENERGÍA ALMACENADA POR UNA INDUCTANCIA
+
+![Diapositiva3](https://user-images.githubusercontent.com/84458025/130657297-27498594-66f1-4ca6-a666-51ec7c2acf4e.PNG)
+
 ### 2.1.9 SUGERENCIAS PARA LA SOLUCIÓN DE PROBLEMAS CON INDUCTORES
+
+![Diapositiva5](https://user-images.githubusercontent.com/84458025/130657251-9c823340-1c1f-482b-a3ee-748662ec4467.PNG)
+
 ## 2.2 TRANSITORIOS INDUCTIVOS 
-### 2.2.1 INTRODUCCIÓN 
+
+![Diapositiva4](https://user-images.githubusercontent.com/84458025/130657171-b9a8ce9c-80e9-4255-baea-8416b7b83e59.PNG)
+
 ### 2.2.2 TRANSITORIO DE CORRIENTE CRECIENTE 
+
+![Diapositiva1](https://user-images.githubusercontent.com/84458025/130656961-8f0062ab-bef7-4dfb-b342-ed4f280f8c63.PNG)
+
 ### 2.2.3 INTERRUPCIÓN DE LA CORRIENTE EN UN CIRCUITO INDUCTIVO 
 
 ![Interrupción de la corriente en un circuito inductivo](https://user-images.githubusercontent.com/84425276/130545825-50288444-1118-49a1-9af7-c507d525862d.png)
