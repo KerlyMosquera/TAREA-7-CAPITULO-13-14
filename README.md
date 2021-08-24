@@ -340,6 +340,8 @@ b. ¿Cuánto es iL y vL en t = 25 ms?
 
 ![image](https://user-images.githubusercontent.com/84425276/130545665-7fa0cd79-94ee-4139-a8f1-00e2598074e4.png)
 
+![image](https://user-images.githubusercontent.com/84425276/130552969-e79cbd34-bc0b-4dfc-9d5f-066e44236dc5.png)
+
 31. Para la figura 14-46, sea L1 = 30 mH y L2 = 90 mH. Cierre el interruptor en t = 0 y determine la corriente en el resistor de 30 Ω en t = 2ms.
 
 ![image](https://user-images.githubusercontent.com/84425276/130545646-a9669b68-bf0c-4bad-bb10-724d0ee43110.png)
