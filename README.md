@@ -293,6 +293,19 @@ d. Grafique iL y vL. Marque el eje en t y en segundos.
 
 ![image](https://user-images.githubusercontent.com/84425276/130545366-01224ff0-a524-4754-aaaa-237782b09a8d.png)
 
+a)
+
+![image](https://user-images.githubusercontent.com/84425276/130555547-40d6fb7f-7ca9-492b-93ee-e8b4af4b68fc.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/84425276/130555583-0bcbb586-5c37-4bd8-82e1-2fd84349ada6.png)
+
+c)
+
+![image](https://user-images.githubusercontent.com/84425276/130555615-fd9b3597-66c5-4610-adec-7cc91206fff0.png)
+![image](https://user-images.githubusercontent.com/84425276/130555645-448617b4-2aa3-4d6b-ac44-a1c6cad08842.png)
+![image](https://user-images.githubusercontent.com/84425276/130555669-868639d5-2cfd-4215-8143-d7a789705f29.png)
 
  
 17. Dado vL = -2700 Ve-100t. Use la curva universal de la constante de tiempo para determinar vL en t = 20 ms.
@@ -322,17 +335,13 @@ c. Encuentre el voltaje en el inductor y la corriente a través de el en t = 17.
 
 ![image](https://user-images.githubusercontent.com/84425276/130545506-e7b8d03a-d4c1-45ee-9421-4bea117942a3.png)
 
-25. a. Vea la figura 14-47:
-a. ¿Cuál es la constante de tiempo del circuito energizado?
-b. Cierre el interruptor y determine la ecuación para iL y vL durante el crecimiento de la corriente.
-b. ¿Cuánto es iL y vL en t = 25 ms?
-
-![image](https://user-images.githubusercontent.com/84425276/130545524-1e46bf36-d8d7-418d-8c76-d44716d64ec0.png)
+![image](https://user-images.githubusercontent.com/84425276/130555864-18e98c42-a2b9-472f-87da-126b4abd7ba1.png)
 
 27. Un circuito desconocido que contiene fuentes cd y resistores tiene un voltaje a circuito abierto de 45 volts. Cuando sus terminales de salida se ponen en corto, la corriente de cortocircuito es 0.15 A. Un interruptor, resistor e inductancia están conectados (figura 14-48). Determine la corriente y el voltaje del inductor, 2.5 ms después que el interruptor se ha cerrado.
 
 ![image](https://user-images.githubusercontent.com/84425276/130545548-6dc26739-5aee-4300-b38c-97f635f657e5.png)
 
+![image](https://user-images.githubusercontent.com/84425276/130555799-1b1af364-1811-4fcf-b42c-635a0aa7d067.png)
 
 ### 3.2.6 TRANSITORIOS RL CON COMPUTADORA 
 
