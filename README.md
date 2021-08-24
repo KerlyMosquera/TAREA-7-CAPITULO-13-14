@@ -265,9 +265,69 @@ circuito de la figura 14-42. Calcule iL y vL en t = 3.4 ms.
 
 ![Captura de Pantalla 2021-08-23 a la(s) 20 27 51](https://user-images.githubusercontent.com/84458025/130540759-8bc97087-c1ec-4708-abb0-297b505877f8.png)
 
+13. Para la figura 14-1(b), si vL = 40e-2000t V y la corriente de estado estable es 10 mA, ¿cuales son los valores de E, R y L?
+
+![image](https://user-images.githubusercontent.com/84425276/130545299-c2e48011-047e-4035-9821-b2164eb5af0e.png)
+
+
+
 ### 3.2.4  TRANSITORIOS DESENERGIZANTES 
+
+15. Para la figura 14-43, R1 = 20 Ω, R2 = 230 Ω y L = 0.5 H y la corriente del inductor ha alcanzado un valor estable de 5 A con el interruptor cerrado. En t = 0 s, el interruptor se abre.
+a. ¿Cuál es la constante de tiempo en la fase de disminución?
+b. Determine las ecuaciones para iL y vL.
+c. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t = 0 hasta 5 t.
+d. Grafique iL y vL. Marque el eje en t y en segundos.
+
+![image](https://user-images.githubusercontent.com/84425276/130545366-01224ff0-a524-4754-aaaa-237782b09a8d.png)
+
+ 
+17. Dado vL = -2700 Ve-100t. Use la curva universal de la constante de tiempo para determinar vL en t = 20 ms.
+
+19. Para la figura 14-43, L = 20 H. La corriente durante la fase de crecimiento y disminución se muestra en la figura 14-44. Determine R1 y R2.
+
+![image](https://user-images.githubusercontent.com/84425276/130545400-ffcf4d3c-1abf-4b44-92f9-8ff1f4e6d21d.png)
+
+
 ### 3.2.5  CIRCUITOS MÁS COMPLEJOS 
+
+21. Para la bobina de la figura 14-45 Rl = 1.7 Ω y L = 150 mH. Determine la corriente de la bobina en t = 18.4 ms.
+
+![image](https://user-images.githubusercontent.com/84425276/130545495-016255b5-2f6f-4c27-bd06-536c4c0bdcd0.png)
+
+23. Para la figura 14-46, el circuito ha alcanzado el estado estable con el interruptor cerrado. Ahora se abre el interruptor.
+a. Determine la constante de tiempo del circuito desenergizado.
+b. Determine las ecuaciones para iL y vL.
+c. Encuentre el voltaje en el inductor y la corriente a través de el en t = 17.8 s, use las ecuaciones que se determinaron antes.
+
+![image](https://user-images.githubusercontent.com/84425276/130545506-e7b8d03a-d4c1-45ee-9421-4bea117942a3.png)
+
+25. a. Vea la figura 14-47:
+a. ¿Cuál es la constante de tiempo del circuito energizado?
+b. Cierre el interruptor y determine la ecuación para iL y vL durante el crecimiento de la corriente.
+b. ¿Cuánto es iL y vL en t = 25 ms?
+
+![image](https://user-images.githubusercontent.com/84425276/130545524-1e46bf36-d8d7-418d-8c76-d44716d64ec0.png)
+
+27. Un circuito desconocido que contiene fuentes cd y resistores tiene un voltaje a circuito abierto de 45 volts. Cuando sus terminales de salida se ponen en corto, la corriente de cortocircuito es 0.15 A. Un interruptor, resistor e inductancia están conectados (figura 14-48). Determine la corriente y el voltaje del inductor, 2.5 ms después que el interruptor se ha cerrado.
+
+![image](https://user-images.githubusercontent.com/84425276/130545548-6dc26739-5aee-4300-b38c-97f635f657e5.png)
+
+
 ### 3.2.6 TRANSITORIOS RL CON COMPUTADORA 
+
+29. El circuito de la figura 14-46 está en estado estable con el interruptor abierto. En t = 0, se cierra y permanece así. Grafique el voltaje en L y encuentre vL en 20 s con el cursor.
+
+![image](https://user-images.githubusercontent.com/84425276/130545665-7fa0cd79-94ee-4139-a8f1-00e2598074e4.png)
+
+31. Para la figura 14-46, sea L1 = 30 mH y L2 = 90 mH. Cierre el interruptor en t = 0 y determine la corriente en el resistor de 30 Ω en t = 2ms.
+
+![image](https://user-images.githubusercontent.com/84425276/130545646-a9669b68-bf0c-4bad-bb10-724d0ee43110.png)
+
+33. Se resolvió el circuito de la figura 14-22(a) mediante la reducción a su equivalente de Thevenin. Use PSpice para analizar el circuito en su forma original y grafique la corriente del inductor. Verifique algunos puntos en la curva calculando los valores de acuerdo con la solución del ejemplo 14-8 y compare con los valores que obtuvo en la pantalla.
+ 
+![image](https://user-images.githubusercontent.com/84425276/130545634-03010157-844f-450b-9319-dddb485a857b.png)
+
 ## 4.CONCLUSIONES
 ### 4.1 INDUCTANCIA E INDUCTORES
 - Ley que establece que el voltaje inducido en una bobina de alambre es igual al número
